@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
+![Dragon Spacecraft](/images/dragon_spacecraft.jpg "Dragon Spacecraft")
 
 ### Contact me
 
