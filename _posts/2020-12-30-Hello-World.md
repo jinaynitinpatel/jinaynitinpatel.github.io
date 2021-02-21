@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Installing OpenMP on mac!
+permalink: /OpenMP-on-Mac/
 ---
 If you want to install OpenMP on mac, follow the steps below
 -  Install homebrew for mac, if you don't have already. Visit [brew]({https://brew.sh/}) to install homebrew
