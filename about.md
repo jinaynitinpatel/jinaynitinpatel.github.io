@@ -13,4 +13,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[jinay.patel@iitb.ac.in](mailto:jinay.patel@iitb.ac.in)
+[jinaykumarnitin.patel@uta.edu](mailto:jinaykumarnitin.patel@uta.edu)
