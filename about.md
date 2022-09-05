@@ -9,4 +9,4 @@ I am Jinay Patel, a first-year Ph.D. student in Aerospace Engineering at the Uni
 
 ### Contact me
 
-[jinaykumarnitin.patel@uta.edu](mailto:jinaykumarnitin.patel@uta.edu)
+jinaykumarnitin.patel (at) uta (dot) edu
