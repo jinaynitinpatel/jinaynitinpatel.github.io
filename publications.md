@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 <ol reversed>
+  <li>Patel, Jinaykumar, and Subbarao, Kamesh. "<span style="color:blue">Nonlinear Reachable Set Computation And Model Predictive Control For Safe Hypersonic Re-Entry Of Atmospheric Vehicles.</span>" (2023) AAS/AIAA Astrodynamics Specialist Conference, Big Sky.</li>
   <li>Patel, Jinaykumar, and Subbarao, Kamesh. "<span style="color:blue">Rendezvous and Proximity Operations using Model Predictive Control based on Set Membership Filter.</span>" 2023 American Control Conference (ACC). (2023). Accepted</li>
   <li>Patel, Jinaykumar, and Shashi Ranjan Kumar. "<span style="color:blue">Spacecraft Rendezvous and Docking with Obstacle Avoidance using Model Predictive Control.</span>" AIAA SCITECH 2023 Forum. (2023). https://doi.org/10.2514/6.2023-2501</li>
   <li>Patel, Jinaykumar, and Subbarao, Kamesh. "<span style="color:blue">Reachable Set Computation and Analysis for Hypersonic Atmospheric Re-Entry Vehicles.</span>" (2022) AAS/AIAA Astrodynamics Specialist Conference, North Carolina.</li>
