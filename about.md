@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello! I am Jinay Patel, currently immersing myself in the intricate field of Aerospace Engineering as a diligent second-year Ph.D. student at the esteemed University of Texas at Arlington. My academic journey began at the highly respected Indian Institute of Technology Bombay (IITB), where I successfully completed both my Bachelor's and Master's degrees in 2021.
+Hello! I am Jinay Patel, currently immersing myself in the intricate field of Aerospace Engineering as a diligent second-year Ph.D. student at the University of Texas at Arlington. My academic journey began at the Indian Institute of Technology Bombay (IITB), where I successfully completed both my Bachelor's and Master's degrees in 2021.
 
 The fascination with Aerospace and Astronomy has been a driving force in my life since the commencement of my academic exploration at IITB. It prompted me to undertake a comprehensive spectrum of courses in these captivating realms, deepening my understanding and augmenting my perspective about these fields.
 
