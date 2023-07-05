@@ -4,7 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I am Jinay Patel, a second-year Ph.D. student in Aerospace Engineering at the University of Texas at Arlington. I received my Bachelor's and Master's degrees from the Indian Institute of Technology Bombay ( IITB ) in 2021. Right from the start of my study at IIT Bombay, I was always interested in Aerospace and Astronomy. Following my interest, I pursued multiple courses in these domains. In addition, I also developed an interest in computing, especially in python. My immediate goal is to identify a specific field to work in where I can combine Astronomical Sciences and Aerospace Engineering. Basically, I would like to work at the intersection of Astro and Aero, <em>AESTRO</em>.
+Hello! I am Jinay Patel, currently immersing myself in the intricate field of Aerospace Engineering as a diligent second-year Ph.D. student at the esteemed University of Texas at Arlington. My academic journey began at the highly respected Indian Institute of Technology Bombay (IITB), where I successfully completed both my Bachelor's and Master's degrees in 2021.
+
+The fascination with Aerospace and Astronomy has been a driving force in my life since the commencement of my academic exploration at IITB. It prompted me to undertake a comprehensive spectrum of courses in these captivating realms, deepening my understanding and augmenting my perspective about these fields.
+
+As I delved deeper into my studies, I cultivated a burgeoning interest in computing, with a particular affinity for Python. This has added a new dimension to my academic arsenal, empowering me to approach challenges with a more technologically-savvy mindset.
+
+Presently, my ambitions are channelled towards pinpointing a unique niche that harmoniously blends the mysteries of Astronomical Sciences with the technical depth of Aerospace Engineering. My ultimate aspiration is to pioneer in a discipline that exists at the crossroads of Astro and Aero – a field I fondly call '<em>AESTRO</em>'. My journey, characterized by persistent learning and unyielding curiosity, is paving the way towards this exciting and innovative juncture.
 
 
 ### Contact me
