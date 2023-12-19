@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 <ol reversed>
+  <li>Adhikari, Bibek, Patel, Jinaykumar, Yadav, Radav, and Subbarao, Kamesh. "<span style="color:blue">Lunar Exploration through Co-operative Rovers using Smart Navigation.</span> AIAA SCITECH 2024 Forum. (2024).</li>
   <li>Patel, Jinaykumar, and Subbarao, Kamesh. "<span style="color:blue">Reachability Analysis for Atmospheric Re-entry Vehicle</span>" (2023) AIAA Journal of Guidance, Control, and Dynamics. Accepted.</li>
   <li>Patel, Jinaykumar, and Subbarao, Kamesh. "<span style="color:blue">Nonlinear Reachable Set Computation And Model Predictive Control For Safe Hypersonic Re-Entry Of Atmospheric Vehicles.</span>" (2023) AAS/AIAA Astrodynamics Specialist Conference, Big Sky.</li>
   <li>Patel, Jinaykumar, and Subbarao, Kamesh. "<span style="color:blue">Rendezvous and Proximity Operations using Model Predictive Control based on Set Membership Filter.</span>" 2023 American Control Conference (ACC).</li>
